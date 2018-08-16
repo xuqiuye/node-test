@@ -1,0 +1,8 @@
+{
+  "apps": [ {
+      "name": "test",
+      "script": "./app.js",
+      "out_file": "./logs/out.log"
+    }
+  ]
+}
